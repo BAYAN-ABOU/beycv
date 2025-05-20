@@ -107,14 +107,14 @@
 
         <h2>Work Experience</h2>
         <ul>
-            <li><strong>Intern - ABC Tech (2024):</strong> Assisted in backend development using PHP and MySQL.</li>
+            <li><strong>Intern (2024):</strong> Assisted in backend development using PHP and MySQL.</li>
             <li><strong>Freelancer:</strong> Built personal websites and mobile apps for clients.</li>
         </ul>
 
         <h2>Education</h2>
         <ul>
             <li><strong>Karabük University:</strong> B.Sc. in Computer Engineering (2022 – Present)</li>
-            <li><strong>Science High School:</strong> Graduated in 2022</li>
+            <li><strong> High School:</strong> Graduated in 2022</li>
         </ul>
 
         <h2>Projects</h2>
